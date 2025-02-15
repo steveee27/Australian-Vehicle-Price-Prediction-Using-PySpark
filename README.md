@@ -25,7 +25,7 @@ The dataset used in this analysis contains various vehicle attributes, including
 - **Transmission**: The type of transmission used (e.g., Manual, Automatic).
 - **Body Type**: Type of the vehicle (e.g., Sedan, SUV).
 - **Price**: The target variable representing the vehicle price.
-
+- etc.
 The dataset provides a rich set of features to explore the factors that influence vehicle pricing in the Australian market.
 
 ## Data Preprocessing
